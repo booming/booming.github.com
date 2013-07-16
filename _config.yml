@@ -9,12 +9,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Rust World
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : booming
+  email : jun.w.yeung@gmail.com
+  github : booming
   twitter : username
   feedburner : feedname
 
@@ -57,7 +57,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   BASE_PATH : false
 
-  # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
+  # By w, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
   #
   # Override this by defining an absolute path to assets here.
